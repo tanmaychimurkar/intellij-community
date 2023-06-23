@@ -1,6 +1,20 @@
 <component name="libraryTable">
   <library name="kotlinc.kotlin-stdlib" type="repository">
     <properties maven-id="org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.9.20-dev-4794">
+      <verification>
+        <artifact url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.9.20-dev-4794/kotlin-stdlib-jdk8-1.9.20-dev-4794.jar">
+          <sha256sum>2d2bed0ec1fe02cb88d0a0e7e1b0478b25941cec086b4f9f47571d0cc9988ea5</sha256sum>
+        </artifact>
+        <artifact url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.9.20-dev-4794/kotlin-stdlib-1.9.20-dev-4794.jar">
+          <sha256sum>c1a42810c104ca2f7ff73cc38c9652723226c5d9f11be5d2fd29f58da8b8eb12</sha256sum>
+        </artifact>
+        <artifact url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.9.20-dev-4794/kotlin-stdlib-common-1.9.20-dev-4794.jar">
+          <sha256sum>6eb875b771366278f656d0c88ea425b2cd3bdd9a87bc9bc5c7dce6e2225c9aa9</sha256sum>
+        </artifact>
+        <artifact url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.9.20-dev-4794/kotlin-stdlib-jdk7-1.9.20-dev-4794.jar">
+          <sha256sum>0d568f3ad92b3a784293b1bc9b14c29730fbdac24b2dc87fe477ea2caecddb41</sha256sum>
+        </artifact>
+      </verification>
       <exclude>
         <dependency maven-id="org.jetbrains:annotations" />
       </exclude>

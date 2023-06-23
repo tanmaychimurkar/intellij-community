@@ -1,6 +1,12 @@
 <component name="libraryTable">
   <library name="kotlinc.kotlin-script-runtime" type="repository">
-    <properties maven-id="org.jetbrains.kotlin:kotlin-script-runtime:1.9.20-dev-4794" />
+    <properties maven-id="org.jetbrains.kotlin:kotlin-script-runtime:1.9.20-dev-4794">
+      <verification>
+        <artifact url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-script-runtime/1.9.20-dev-4794/kotlin-script-runtime-1.9.20-dev-4794.jar">
+          <sha256sum>a6541277b01ff84e5041817cca3fd3ea65a5f57f366939e94778a0e7f27928d6</sha256sum>
+        </artifact>
+      </verification>
+    </properties>
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-script-runtime/1.9.20-dev-4794/kotlin-script-runtime-1.9.20-dev-4794.jar!/" />
     </CLASSES>
